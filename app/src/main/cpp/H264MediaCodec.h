@@ -1,0 +1,8 @@
+//
+// Created by dailonglong1 on 2023/5/19.
+//
+
+#ifndef MYPLAYER_H264MEDIACODEC_H
+#define MYPLAYER_H264MEDIACODEC_H
+
+#endif //MYPLAYER_H264MEDIACODEC_H
